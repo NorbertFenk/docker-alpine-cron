@@ -1,7 +1,7 @@
 # docker-alpine-cron
 
 Dockerfile and scripts for creating image with Cron based on Alpine  
-Installed packages: dcron wget rsync ca-certificates  
+Installed packages: dcron wget curl rsync ca-certificates  
 
 #### Environment variables:
 
